@@ -1,3 +1,4 @@
+
 # Prerequisites
 Install Python3, Pip,anaconda, Jupyter, Vscode , Python & Jupyter extension for vscode
 
@@ -23,3 +24,8 @@ pip3 install -r requirements.txt
 pip3 install <pakage name>
 pip3 uninstall <pakage name>
 ```
+
+# References
+- https://www.tensorflow.org/tutorials/images/classification
+- https://medium.com/mlearning-ai/binary-image-classification-with-tensorflow-2cc6555e55e8
+
